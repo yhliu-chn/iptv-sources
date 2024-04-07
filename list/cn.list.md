@@ -130,7 +130,7 @@
 | 124 | [HD]南京生活 | epg.pw | <https://epg.pw/stream/455cd25020e0c8839492569d1270e9b60b9f4f5677cb2501ab2ae63f6f6597b3.m3u8> |
 | 125 | [HD]南京信息 | epg.pw | <https://epg.pw/stream/3b410af631ef86077685d36ae62eccce5a427aba62be65c39edfa08ccb2c7965.m3u8> |
 | 126 | [HD]南宁公共频道 | epg.pw | <https://epg.pw/stream/ba5325155e0be49993321f976b6b8ca09627d7872ab62fcea28536aa93120ef8.m3u8> |
-| 127 | [HD]南宁影视娱乐频道 | epg.pw | <https://epg.pw/stream/f3ce05c4688d29f5f5a33287b828ec3b919eb73f65c17eabf2a70fc3804903f9.m3u8> |
+| 127 | [SD]南宁影视娱乐 | epg.pw | <https://epg.pw/stream/72c9abbf874f2c46db89b7ac58de5da33dd09fa55267b926b328eef9b33ee50c.m3u8> |
 | 128 | [BD]黔南新闻综合 | tv.qntv.net | <rtmp://tv.qntv.net/channellive/ch1?zguizd> |
 | 129 | [HD]南宁都市生活频道 | epg.pw | <https://epg.pw/stream/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8> |
 | 130 | [VGA]吉林7频道 | epg.pw | <https://epg.pw/stream/9e738c006d1bcc6fec64e929dd7507609386fc82555934c08a3f04a1c7ecfae1.m3u8> |
@@ -444,4 +444,4 @@
 | 438 | [BD]黑龙新闻法治[ipv6] | epg.pw | <https://epg.pw/stream/08e8dc836a9f361c4c530b31e91fb863e7d3f974cdf9d38126038200f007d3ca.m3u8> |
 | 439 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Sun Apr 07 2024 16:11:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 07 2024 18:12:29 GMT+0000 (Coordinated Universal Time)**
