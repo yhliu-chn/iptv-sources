@@ -99,8 +99,8 @@ Sports,#genre#
 [HD]dazn_1,https://epg.pw/stream/9240f7418eeaa2331e0749ecf17946efda4c5160477130ab8a4fb8cca0a8818f.m3u8
 [SD]ddsports,https://epg.pw/stream/d56fee677333c963e4d955f4459646dfc6af605202db5a7d6d7b6349267570ec.m3u8
 [HD]digi_sport_2,https://epg.pw/stream/3f4809c1f95aa19cfb5ff0aba6bc3fcd0e509ee6234a7e89cddee09619b7d382.ctv
-[BD]dtv,https://epg.pw/stream/3406619460b47ce22b07fb4e7df8baa698b126b9161d9258660e309c7c102173.m3u8
-[BD]dubai_racing,https://epg.pw/stream/cf2ffed2559af6dae582946d1ebd7b5a5112a328dcb8e394067de19b3ecde256.m3u8
+[HD]dtv,https://epg.pw/stream/3406619460b47ce22b07fb4e7df8baa698b126b9161d9258660e309c7c102173.m3u8
+[VGA]dubai_racing,https://epg.pw/stream/cf2ffed2559af6dae582946d1ebd7b5a5112a328dcb8e394067de19b3ecde256.m3u8
 [VGA]dubai_racing_2,https://epg.pw/stream/18a9b05f3d9b89edb848503c42abd3ff8911b75bfe6b26af123bad6ad7d7bcec.m3u8
 [BD]dubai_sports_3_(1080p)_[not_24/7],https://epg.pw/stream/1a8e0a7d48c7829d5c9e663881ddc7a5954e2a9a550ad344883d55e9b5aaab2b.m3u8
 [BD]edge_sport,https://epg.pw/stream/b7a865e0d0e03c93af0e90858ef297bfa28e601185bdf37f4ed26a1486e45529.m3u8
@@ -661,7 +661,7 @@ Generic,#genre#
 [VGA]alforat_tv,https://epg.pw/stream/81992458d571ceb3dcd9ddd80a7e9d90b8907947e25794b3a337d498a43b13c6.m3u8
 [HD]alhayat_tv,https://epg.pw/stream/7457c1157eeafe60b9c4d78b256f534086fa5d150fa20da435057bb9eef594cb.m3u8
 [BD]almagharibia_tv_(1080p),https://epg.pw/stream/6a29c6303219b027ae475333c5fef64aa4501f8fc64438731f4244098561215f.m3u8
-[VGA]amazon_sat,https://epg.pw/stream/28415fc3ccb039c9174034796c5dacdd9b0f839fa331e40df1e8d1027325cbc7.m3u8
+[BD]amazon_sat,https://epg.pw/stream/28415fc3ccb039c9174034796c5dacdd9b0f839fa331e40df1e8d1027325cbc7.m3u8
 [BD]amedia_1_hd,https://epg.pw/stream/084e427e700b28e2a2e6431f5388df0d9d763d3cf172ab2204d97846bc35f291.m3u8
 [SD]amedia_2,https://epg.pw/stream/f11d2bd18e939c7c01b935c79d93aee01c1b6918ab70c02233b788b3bdf96720.m3u8
 [BD]amedia_premium,https://epg.pw/stream/a0d88b19947e75228d8538332544dfa6f88e2489e1ea80beb3be90bb7ac6378e.m3u8
@@ -737,7 +737,7 @@ Generic,#genre#
 [BD]cuatro,https://epg.pw/stream/064b2902bde093b4a9f08e35df6967f8df104ac6bc8ec2ee00bffa0a71c41957.m3u8
 [BD]cw,https://epg.pw/stream/bafe651ef076d0d9d16e55f43bfc635184c20eba38eecd2fe7fe9e3bb22e4e03.m3u8
 [HD]das_erste_hd,https://epg.pw/stream/2d14a6bf57755b3bba7fe9bcd17cf6ba29ee704ca57846ce03fc4226f935450f.m3u8
-[VGA]daserste,https://epg.pw/stream/5d18ebd1ee1147d3859591c76c5c8c5687a236e73ba82a6960d507a74fbf3516.m3u8
+[BD]daserste,https://epg.pw/stream/5d18ebd1ee1147d3859591c76c5c8c5687a236e73ba82a6960d507a74fbf3516.m3u8
 [SD]de_película,https://epg.pw/stream/c5d62d59ef5001d23750f24542fa8730e1b7722be2401199db3f4b3bbafafed3.m3u8
 [HD]deejay_tv,https://epg.pw/stream/030a7d26e29359a7427447745563da7bc567cbf5fa0e843b10483f92dafce0d1.m3u8
 [BD]delta_tv,https://epg.pw/stream/8e633138111f1a7ee4ca8c11f59e82f0ac91fb20eeeb1d40798de1fd14ed6f44.m3u8
@@ -973,7 +973,7 @@ Generic,#genre#
 [BD]top_tv,https://epg.pw/stream/97fd71124b7764678d5b2da5462a139c0a18a92382f651e898f16decb97ffbc0.m3u8
 [BD]toyor_aljanah,https://epg.pw/stream/a28eba5adffb67bab46e0d22ff9257833ce252b19a3995c7f745cd7bad6d2e85.ctv
 [SD]tpa_7,https://epg.pw/stream/45423533b1a6f8c69d3918bba8528730ab48859582364499c8ea1b515f1dbdaf.m3u8
-[HD]trans7,https://epg.pw/stream/de021d4860920d3b25c8cef369d68042280fbbe667cfb3158209948a460756ef.m3u8
+[HD]trans7_hd,https://epg.pw/stream/ad703a71e9e1db09f40377080a1bdba705a5e9108142528d39dadd35298ac2a4.ctv
 [HD]trentino_tv,https://epg.pw/stream/075261389cd7d0b0bbe333ca3226de0d40fe623bbc9527a7b5592aea0a2cf8b7.m3u8
 [BD]trt_arabi_(1080p)_[not_24/7],https://epg.pw/stream/0a1412fa53f3c3a5c10a7daf9169b084d2a628c2eac2544bc695439fe69feec5.m3u8
 [HD]trt_kurdî_(720p),https://epg.pw/stream/bfb21352bd1350f7339e4819c08223495cea26566566b9f746c8c3b817d5804d.m3u8
@@ -2061,7 +2061,7 @@ Entertainment,#genre#
 [BD]cbc_comedy,https://epg.pw/stream/47e252ad9ace16fbd672aa515160412feef198abc65295476d13559f4605223b.m3u8
 [BD]E!_ENTERTAINMENT,https://epg.pw/stream/8860cc32c1f804f971c3f468c6c93602641fc712ee149411ff14303d544fcbcc.ctv
 [HD]elta娱乐,https://epg.pw/stream/5afb485f7e1ed36f9f2e6bfd1df8698fadb395303e70cef7cb752e42f579f826.m3u8
-[BD]code_fashion,https://epg.pw/stream/a1be0d5b186b429656e63036825a7a691f591e3f59c187f719ab96488679b5c8.m3u8
+[HD]code_fashion,https://epg.pw/stream/a1be0d5b186b429656e63036825a7a691f591e3f59c187f719ab96488679b5c8.m3u8
 [VGA]fashion_tv,https://epg.pw/stream/6ed007c1b3eb9ce9244ec1f0bb5460f43150e506cc4ebe7ad5d19d5df08f64a3.m3u8
 [HD]shalom_tv,https://epg.pw/stream/513f53301e46cfe992f25cf5fa55aba8d0169f2db7007ed5ac50c38d1014792f.m3u8
 [VGA]finest_tv,https://epg.pw/stream/94c3386198582fc9d31cd62ccae4892c6276be00fc068f54b3c357e7d8dd3b8d.m3u8
@@ -2129,7 +2129,7 @@ Entertainment,#genre#
 [BD]beach_tv_myrtle_beach_&_the_grand_strand,https://epg.pw/stream/5d4a300b5857c8b363814c704aeb1f5c8101fdc10c25e148c6b9da6a90edcba9.m3u8
 [HD]cinema,https://epg.pw/stream/84b91a882bb1ce789584b475f1b12f97722f2d6914b6d18cd54b73732ff165c5.m3u8
 [HD]bet,https://epg.pw/stream/f1ffadad9f59c53481dd143353cd696dbaf856186d80c0bd3cb2cf12fd9b5166.m3u8
-[VGA]bride_tv,https://epg.pw/stream/30fa5085ef2a154be8aeea2460c3d3ce498db4ad7f62f59e4bcb0f516e489df6.m3u8
+[SD]bride_tv,https://epg.pw/stream/30fa5085ef2a154be8aeea2460c3d3ce498db4ad7f62f59e4bcb0f516e489df6.m3u8
 [HD]c_channel,https://epg.pw/stream/48676c7be0315ec2b5814591a62aa61cfe581479231b66c64fb6d485b5c7d358.m3u8
 [HD]cablenoticias,https://epg.pw/stream/6e712685a0db98e831d308c4ab35482290c93c61e81362b4ffb833fe388a984a.m3u8
 [HD]canal_institucional,https://epg.pw/stream/7444f8b0394f9c829d31c1d746c325772cf6c696267a9c048d338f271a74f3a3.m3u8
@@ -2171,7 +2171,7 @@ Entertainment,#genre#
 [BD]folk_tv,https://epg.pw/stream/26216adb4824b42e4c3d3a4acee0296f8ea8997d161a7402ab7af19605f1d918.m3u8
 [BD]food_network,https://epg.pw/stream/f78b02569b9ef4f4ca7a328c1a2f0ae0b767727528f24c018fe9bbebff7d6f40.ctv
 [HD]free,https://epg.pw/stream/9f0afc1de4674df4bd67f4796cde7f4923d3a367365085a74b37a1cc8c518932.m3u8
-[SD]game_show_central,https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8
+[HD]game_show_central,https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8
 [VGA]geo_kahani,https://epg.pw/stream/1e407aa09dce1938a256d71294756e882cb2316c84c8d5b187294f937b4ebd24.m3u8
 [HD]ginx_hd,https://epg.pw/stream/363bd4c7e2f75d3cec28c3b9ae597ee5a6f0a98cb39fe1e3600c31dc81d56069.ctv
 [BD]global_fashion_channel,https://epg.pw/stream/2dcb26d7299a1f5be4113d6404f3afe3fc34e64e438cfba90221aa134353dd17.m3u8
