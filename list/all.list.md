@@ -385,7 +385,7 @@
 | 379 | [SD]nhk | epg.pw | <https://epg.pw/stream/931e39ae4265809e4f00768ec8a37c9823ab34744acd2a6baa7c7e167b986d1e.m3u8> |
 | 380 | [SD]nhk e | epg.pw | <https://epg.pw/stream/acbfe60565f05de278fc8bac630f3a02741e84176dfa39577476f84f3eee4bea.m3u8> |
 | 381 | [HD]nhkworldjapan.jp | epg.pw | <https://epg.pw/stream/409df1775182ad64f7c44da876692cb22aa3dcd9ad58e905d8add9033f739afd.m3u8> |
-| 382 | [HD]NICKELODEON | epg.pw | <https://epg.pw/stream/b4e25d112668b5804558cdd4ddcd8f886afe2c2c9d60b051be40ff90587d273c.ctv> |
+| 382 | [HD]NICKELODEON | epg.pw | <https://epg.pw/stream/2ba2bc062c9ae9b06f58d13bfb0db7ed00588dc8b1b66ba576b34061ac6fefe4.ctv> |
 | 383 | [BD]NICKJR.USA | epg.pw | <https://epg.pw/stream/f464253efe1cfca5a55642cae9883b4d77128a78f78a2ca0f6d388e5c717920f.ctv> |
 | 384 | [SD][黎巴嫩]noursat(576p) | epg.pw | <https://epg.pw/stream/fb7163517dcc31bb7223ea098087ad9a0dd34018e9ccefd1bc08213a5a8f216f.m3u8> |
 | 385 | [BD]now新闻台 | epg.pw | <https://epg.pw/stream/81f5ffef845e8ea1bb69389d2413f8d7869efc69fbbeffd9b5cf200a853efdf8.ctv> |
@@ -409,7 +409,7 @@
 | 403 | [BD]tvb pearl | epg.pw | <https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv> |
 | 404 | [BD]premiersports2-fhd | epg.pw | <https://epg.pw/stream/5c2c362aefbba26f64a2ef3f94f06684b5b48b7e60ab19762d5eef0d3e4de46c.ctv> |
 | 405 | [HD]qatar tv 2 (720p) | epg.pw | <https://epg.pw/stream/f5ae50e8648f5fb1b72302107e8fe22e41aa3b70e927fb661d43f7ee290a665d.m3u8> |
-| 406 | [HD]RCTI | epg.pw | <https://epg.pw/stream/a4e2a152bd4edc371319aee376fa3a54817cadbf9ace94648b032462914b3293.ctv> |
+| 406 | [HD]RCTI | epg.pw | <https://epg.pw/stream/85dd9e422e44e625e9ddbec9fbd808f6b3ff0307dec994514572369cb3d3d0af.ctv> |
 | 407 | [BD]bfm tv (1080p) | epg.pw | <https://epg.pw/stream/c0f0b599e3f6a3a91aecf74772ea8e71f788f252280620804d7e8a7ade506740.m3u8> |
 | 408 | [BD]rmc | epg.pw | <https://epg.pw/stream/39c02066634d5fd80e0f7f293556a18f2886c3e51bdaedc5ba61abf99c159e96.m3u8> |
 | 409 | [HD]ROCK ENTERTAINMENT | epg.pw | <https://epg.pw/stream/1f75bf19fa96a21c86b88f77f0395e931082798623c11876b7f3f74f17e073cc.ctv> |
@@ -2027,7 +2027,7 @@
 | 2021 | [BD]梨园频道 | epg.pw | <https://epg.pw/stream/a36112d79e692baf0c84ddcd85f0a41d2f1c51e55bde4b1b3503cd712070718e.ctv> |
 | 2022 | [BD]欢笑剧场 | epg.pw | <https://epg.pw/stream/55f21c99af20049c0452e5ecad863786bf95e1b5ccac2bf569774ef66037af2b.ctv> |
 | 2023 | [HD]武义新闻综合 | epg.pw | <https://epg.pw/stream/571f9097fdacfdabda282a2d677089e472be19a1160207daa99c5d47ba171706.m3u8> |
-| 2024 | [HD]武汉外语频道 | epg.pw | <https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
+| 2024 | [VGA]武汉外语频道 | epg.pw | <https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
 | 2025 | [SD]武汉少儿 | epg.pw | <https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8> |
 | 2026 | [HD]武汉教育 | epg.pw | <https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8> |
 | 2027 | [VGA]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
@@ -2302,4 +2302,4 @@
 | 2296 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2297 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Apr 11 2024 10:11:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 11 2024 12:18:38 GMT+0000 (Coordinated Universal Time)**
