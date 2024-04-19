@@ -450,7 +450,7 @@
 | 444 | [HD]canale 7 | epg.pw | <https://epg.pw/stream/11ee5894ddd7f88691b512e977ab23e351524f6f4d8747d2193e1d6248a68c1b.m3u8> |
 | 445 | [VGA]canale 8 (480p) | epg.pw | <https://epg.pw/stream/3f717a0eaed256f91b2f9ba251ce6cb8367e978d6f979dddecc90747b51bc213.m3u8> |
 | 446 | [VGA]caracol | epg.pw | <https://epg.pw/stream/e00faf8cece8cee3cb52a8ed71a7ab5b5d63a1215c88b0beb065c338c0533efd.m3u8> |
-| 447 | [SD]CartoonNetwork | epg.pw | <https://epg.pw/stream/982f115f9e6b0e47eca449360f405994e17f53566bfed8f0c93156b261e73c37.ctv> |
+| 447 | [HD]Cartoon Network | epg.pw | <https://epg.pw/stream/08751d4ce6d8cc9d6a4077e9484ca613bee82c25615790a1cf4fd9c3bd27a6b5.ctv> |
 | 448 | [SD]nitro | epg.pw | <https://epg.pw/stream/cee4a01de80cf7fb08dd51c424c59e49da261bbdbb5970e40fd10fe00ebc91f5.m3u8> |
 | 449 | [VGA]cartoonito | epg.pw | <https://epg.pw/stream/92036a566b464443eb00b90db1ea81656f5de9768cd3d341f0eabb0e58c72457.m3u8> |
 | 450 | [BD]celestial movies | epg.pw | <https://epg.pw/stream/7f64de3d9f8c00dcd496a9e0a490f0a9d1bf1d26a0250a7d6f68be646f83a2a5.m3u8> |
@@ -941,7 +941,7 @@
 | 935 | [HD]mrtv | epg.pw | <https://epg.pw/stream/aacc8e85f7e43cc7b91cab867d56b5018c8be4012534a0f19f2833ccb80aea5c.m3u8> |
 | 936 | [HD]msj tv | epg.pw | <https://epg.pw/stream/a44e25cc026a8b9eb131d120d276428a57f3027344511dc7724fea17b9f98437.m3u8> |
 | 937 | [SD]msnbc | epg.pw | <https://epg.pw/stream/a7b1c6e3296f96e0b03c08113b6df7766e6fc6817ec65d78a6655f2d0a25ce61.m3u8> |
-| 938 | [SD]MTV BASE | epg.pw | <https://epg.pw/stream/01ec187c9b25f83afe280eb6cb91cf9a2f00ab0496d91af0e399fec41f1c9550.ctv> |
+| 938 | [SD]MTV BASE | epg.pw | <https://epg.pw/stream/1e97ae5229d191d1fed1cee43fc379bc1c7ae95b2125a47efabd75edd9ae2b79.ctv> |
 | 939 | [BD]MTVHD | epg.pw | <https://epg.pw/stream/09703a2cb9ee684047f71369dcb1a1ba917df85261bfb7202e1cc3f98bc844c2.ctv> |
 | 940 | [SD]mtv japan | epg.pw | <https://epg.pw/stream/54fa803999659caa34cf50eb8a6790cbb0464e81a4b72ea5d8b3958bcae15758.m3u8> |
 | 941 | [BD]mtv lebanon | epg.pw | <https://epg.pw/stream/0a56ff323de01b59acf379eec5f3c314d96452efc24358540317a73ca5a2e6bd.m3u8> |
@@ -1368,7 +1368,7 @@
 | 1362 | [HD]sky news arabia (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/d33d6b654a91c73b60138a8762772913cc08cb61169a50604a82a50d31ab5229.m3u8> |
 | 1363 | [HD]sky primafila 1 hd | epg.pw | <https://epg.pw/stream/5771901aa0183f866fb9e57ae2238491feb4af588ea50c6db140ff3d92a5f903.ctv> |
 | 1364 | [BD]sky sport f1 | epg.pw | <https://epg.pw/stream/8c43072866574fc88e7f79bef7753f6497128f272ffa576810b338c66545155f.ctv> |
-| 1365 | [BD]sky sport action | epg.pw | <https://epg.pw/stream/65aa4a0dcf26cf09c52aa35e96e7b739d3dfc491ce4ba2aa8a2d4e51d527ada7.ctv> |
+| 1365 | [BD]skysports_action-fhd | epg.pw | <https://epg.pw/stream/00dd40eb726b4953cc084e8f86f56f8c8c5f58d29066911e8b839fc7b7d73625.ctv> |
 | 1366 | [BD]sky sport cricket | epg.pw | <https://epg.pw/stream/09e2d87a4a8bac1a8037be54469087b7ae99bafbe3fe2b897e52bcf34b4dd096.ctv> |
 | 1367 | [HD]ช่อง sky sports f1 | epg.pw | <https://epg.pw/stream/89c9b910d3bcb96369eb03b6ec91db78ea30bc51aa30ac0d9a36da221c61601f.m3u8> |
 | 1368 | [HD]skysports_golf-fhd | epg.pw | <https://epg.pw/stream/a74943c8dc3f1760e0c39a0b5e811e1c448619fb52ba0148d979dca4976f7751.ctv> |
@@ -2366,4 +2366,4 @@
 | 2360 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2361 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Apr 19 2024 20:11:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 19 2024 22:09:34 GMT+0000 (Coordinated Universal Time)**
