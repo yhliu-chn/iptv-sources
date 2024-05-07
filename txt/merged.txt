@@ -345,7 +345,7 @@ Entertainment,#genre#
 [VGA]finest_tv,https://epg.pw/stream/94c3386198582fc9d31cd62ccae4892c6276be00fc068f54b3c357e7d8dd3b8d.m3u8
 [BD]jtbc_뉴스,https://epg.pw/stream/9c683f5e12d8f5a1230c18b13ed38758022b4eba4978c95f8740c6e1c7620a15.m3u8
 [VGA]kbs_joy,https://epg.pw/stream/6e5ac268f6f535878bf582eeb86a37b58989736e931212d7989ee646765c593d.ctv
-[BD]raly_tv,https://epg.pw/stream/785de8ea3e56ce5946029bf009f1bc680914ab1c0928a26415e79df257ed5338.m3u8
+[HD]raly_tv,https://epg.pw/stream/785de8ea3e56ce5946029bf009f1bc680914ab1c0928a26415e79df257ed5338.m3u8
 [BD]6+_hd,https://epg.pw/stream/c36c66a65569457256002bbbfff1affbae08e4d105e1fd7a181d95f545c24117.m3u8
 [BD]kiss_tv,https://epg.pw/stream/182f2cedef05e8d52de6225ad5c245471b1c6dca34de584c8baef8f8461647d8.m3u8
 [BD]pop,https://epg.pw/stream/e02bb385efafb2c4920732417dc2ae306bc305f5f410cf4fe856e776be1488c1.ctv
@@ -446,7 +446,7 @@ Entertainment,#genre#
 [VGA]trans_tv,https://epg.pw/stream/345cebb71db4fbbd3798b88f7ef92b89846f0e0b4af28a5c594be122eabae64d.m3u8
 [VGA]transtv_hd,https://epg.pw/stream/4e3cc073a88fcf97e5a2006ad81ddb6f8da049118d115612c9734c2e29ecaee8.m3u8
 [HD]true4u,https://epg.pw/stream/23e2b831ae434e39cb25a559c40f26a4db90ec86f6139253ab010358b25774cc.m3u8
-[HD]univision_east_[geo-blocked],https://epg.pw/stream/812554d104d0411aa566130408811ffd3688ff6449cd5c7ffbe3853ab6452dd5.m3u8
+[VGA]univision_east_[geo-blocked],https://epg.pw/stream/812554d104d0411aa566130408811ffd3688ff6449cd5c7ffbe3853ab6452dd5.m3u8
 [BD]usa_network,https://epg.pw/stream/8ed6eca09d78b1c3f8655609005387908267a64598479df9944eba331c828617.ctv
 [BD]utv,https://epg.pw/stream/42418de768c4f5807935ab3b9365fbc9bc269362cb5ad403ba81b4e448ac8530.m3u8
 [HD]vevo_8,https://epg.pw/stream/7d1270907a9369c1c46cbd972ef41312098169d0a7cef483e5bac3cbcdb29f55.m3u8
@@ -742,7 +742,6 @@ Generic,#genre#
 [HD]momo综合,rtmp://f13h.mine.nu/sat/tv761
 [VGA]mrtv_4,https://epg.pw/stream/4a53570f5f853abe11799fe9e49c7995c7fcfb2e8545fc4f7e624c729a5412ff.m3u8
 [HD]cosmos,https://epg.pw/stream/c3f5a3f71cc0aff22674be865a6954eb36561d4770694772acce62ea1e3e1caf.m3u8
-[VGA]mega,https://epg.pw/stream/70810c97fc01105011b84d7ec4eed5860066f89d8245a07a74d772acaa5cab32.m3u8
 [BD]mekameleen_tv_(1080p),https://epg.pw/stream/5e28d2bd333bffd12a7115f8bf127f19481ef5cc20212336d797e699765e0314.m3u8
 [HD]multishow,https://epg.pw/stream/53a88ab3d28186b4049d442bc3a2d640ca8616fd4a841ac6466d3fedc166b5b9.ctv
 [BD]münchen_tv,https://epg.pw/stream/006c62edcad39e3f53644726a475793a17781b53d951314ed76a6805168a31ea.m3u8
@@ -1527,7 +1526,7 @@ News,#genre#
 [HD]can_news,https://epg.pw/stream/5402a0174b2a8f8714c024555a4e818fa25a6e9a478c240927f1a3616c393941.m3u8
 [VGA]cnn,https://epg.pw/stream/f631ed1a12b8c08e7463630e4d7cde008f83010e260ffabe255aff4e5d145348.m3u8
 [HD]CNN_HD,https://epg.pw/stream/60c06e7b9526af1fcfe39afe76d976279567f6d4509b4deecfc7cd18ab6de969.ctv
-[HD]hln_(720p)_[geo-blocked],https://epg.pw/stream/c944966d71f2a97bfea2d957ae59051819d482f7acdcbe2187cbbea67ef7c68f.m3u8
+[HD]hln_(720p),https://epg.pw/stream/c944966d71f2a97bfea2d957ae59051819d482f7acdcbe2187cbbea67ef7c68f.m3u8
 [HD]cnn_indonesia_(720p)_[geo-blocked],https://epg.pw/stream/d93a58b071c1b96199c48d38fa87fa3caa292de5ed1e0c1622e2ad2f9a2f0229.m3u8
 [HD]afghanistan_international,https://epg.pw/stream/a433069711ef3cd1c6303c7c39fd82b9b186bda721aa04c0d7d64e1815efa98b.m3u8
 [HD]cnn_turk,https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.m3u8
@@ -1934,7 +1933,7 @@ Sports,#genre#
 [HD]sport_club,https://epg.pw/stream/f56c508acac01b299ef869ac175f82a0b28e71e7bc511b108ffb58ebd18914e3.m3u8
 [BD]sportv_2_hd,https://epg.pw/stream/8bb9a8a800b4865ca1413a0d6fb64a2f4efe42cf7c7ba53eb427887c1a870c81.ctv
 [HD]star_(720p),https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8
-[BD]astro_supersport_1__stl,https://epg.pw/stream/2ee3a82ea3a2c2b159fef24e6bfbd38ce7102a445f1e62c8108069b348fd34d4.ctv
+[HD]astro_supersport_1__stl,https://epg.pw/stream/2ee3a82ea3a2c2b159fef24e6bfbd38ce7102a445f1e62c8108069b348fd34d4.ctv
 [HD]setanta_sports_2_,https://epg.pw/stream/dbb64de6896483eff5d67e0bdb082bd72ddc3c19b614b094e385a97e96f24fca.m3u8
 [HD]setanta_sports_hd_,https://epg.pw/stream/e88c4cd3854ee0a4f7563794f96d806acde4f565ecee241f20462f5e1c9a7290.m3u8
 [HD]usil_tv,https://epg.pw/stream/a33d57244845bc2575ec1890960bf71b0562f2a64b4bbcd063d75ed53bd579f5.m3u8
@@ -4474,6 +4473,7 @@ Kəpəz_TV_(540p)_[Not_24/7],http://85.132.81.184:8080/arbkepez/live/index.m3u8
 Kiskőrös_TV_(720p),https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
 Knal_4_Quiché_(720p)_[Not_24/7],https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
 Komáromi_Televízió_(400p),https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+Kommu_TV_(720p)_[Not_24/7],http://31.10.19.12:8066/live/999/0.m3u8
 Korea_Economy_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
 Krem_TV,https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
 Kurdistan_TV_(720p)_[Not_24/7],https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
@@ -4983,6 +4983,7 @@ Televilla_(720p)_[Not_24/7],https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 Televisa_Ensenada_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 Televisão_Santomense_(720p),https://tvsonlin.com/hls/tvs.m3u8
 Televisió_Sant_Cugat_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCoFs7RGrmWQkqU5KNNGvCjA.m3u8
+Télévision_de_Mauritanie_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 Télévision_La_Brise_(Ch._28_Les_Cayes)_(720p),http://lakay.online/public/telelabrise/index.m3u8
 Televisión_Metrópolis_19.1_(1080p)_[Not_24/7],https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 Televisión_Metrópolis_19.2_(1080p)_[Not_24/7],https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
@@ -6785,7 +6786,6 @@ Kókshe_(720p)_[Not_24/7],https://stream.kaztrk.kz/regional/kokshetautv/index.m3
 Kolkata_TV_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
 Komala_TV_(1080p),https://live.tvkomala.com/live/komala/playlist.m3u8
 Komlós_TV_(1080p)_[Not_24/7],https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
-Kommu_TV_(720p)_[Not_24/7],http://31.10.19.12:8066/live/999/0.m3u8
 Kon_Tum_TV_(720p),https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 Kon_TV_(720p),https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
 Kontra_Channel_(1080p),https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
@@ -8448,7 +8448,6 @@ Televisa_Zacatecas_(720p)_[Not_24/7],https://ythls.armelin.one/channel/UCQb3i7gu
 Televisiete_(480p)_[Not_24/7],https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/playlist.m3u8
 Televisión_Aranda_(720p),https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 Televisión_Comayagua_Canal_40_(720p)_[Not_24/7],https://mediacp.us:8081/8034/index.m3u8
-Télévision_de_Mauritanie_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 Télévision_Locale_du_Choletais,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Tlc-Cholet.m3u8
 Televízia_OSEM_(576p),http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 Televizija_5_(576p),https://balkanmedia.dynu.net/hls/tv5web.m3u8
@@ -10527,10 +10526,9 @@ Baladna_(720p),http://htvmada.mada.ps:8888/baladna/index.m3u8
 Bangla_TV_(720p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
 Bansal_News_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCL_3_9PhDyZXu1oexm8gtFQ.m3u8
 BBC_Arabic_(720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-BBC_News_(North_America)_(1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC_News_(720p),https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC_News_Arabic_(1080p),https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
 BBC_News_Asia_Pacific_(720p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-BBC_News_HD_(720p),https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 BBC_Persian_(720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 BBC_World_News_South_Asia,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 BBN_Türk_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCqq-1-YntK4Gq53Ka9PaVlg.m3u8
