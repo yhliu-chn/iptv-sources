@@ -61,7 +61,7 @@
 | 55 | [HD][埃塞俄比亚]addistv[1280*720] | epg.pw | <https://epg.pw/stream/cf66e94f476d3d328d04c3b0b71da1979d6435fdb1a7fda45179f89f1e40c8db.m3u8> |
 | 56 | [BD]akc tv | epg.pw | <https://epg.pw/stream/8c010adaa6e13e556a72c4f3fe944d599ddb42d2297917ff9a583a59719b84e4.m3u8> |
 | 57 | [BD]al hiwar tv | epg.pw | <https://epg.pw/stream/a0024ef0acffbd1c13fd094eb675ea401e858258453389c2eaf4ca556a5857d7.ctv> |
-| 58 | [HD]al horreya | epg.pw | <https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8> |
+| 58 | [BD]al horreya | epg.pw | <https://epg.pw/stream/28dd9edc336ccbdf7366055646b597e34f84f4436bf74158231e95dddde67404.m3u8> |
 | 59 | [BD]al jazeera | epg.pw | <https://epg.pw/stream/bc588575cbb017bfbbee10c06ccd54fe2d1063a8a1fd0a8e0604159fe7cdf294.m3u8> |
 | 60 | [VGA]ace tv (kcks-ld3) (480p) | epg.pw | <https://epg.pw/stream/f06b4abfde39c6a34df463e380dcd0b918952cfc99d574a82e4183b2ef5183c7.m3u8> |
 | 61 | [BD]asharq news (1080p) | epg.pw | <https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8> |
@@ -872,7 +872,7 @@
 | 866 | [HD]orf 2 hd | epg.pw | <https://epg.pw/stream/c986315fc87e4638315d0731d6325f071331cc6d1c1c727b652f118c4388d187.m3u8> |
 | 867 | [HD]box premiere 4k | epg.pw | <https://epg.pw/stream/da09dd1f09e99c323a6b5cac68d1cac0a0a78549cd1a5d36609dfe47b006066d.m3u8> |
 | 868 | [HD]bcu кинозал premiere 2 hd | epg.pw | <https://epg.pw/stream/9784ad9ae716fbaa7c8015662e5aa88498e7f75bc0508bf9470140e03468ffbf.m3u8> |
-| 869 | [VGA]fight | epg.pw | <https://epg.pw/stream/c2706cf86fa0a9fcf281b7c4d94255a2c2c5e5d461e7d2ff18b0b81edcdf1e04.m3u8> |
+| 869 | [SD]fight | epg.pw | <https://epg.pw/stream/c2706cf86fa0a9fcf281b7c4d94255a2c2c5e5d461e7d2ff18b0b81edcdf1e04.m3u8> |
 | 870 | [BD]oberpfalz tv | epg.pw | <https://epg.pw/stream/c9f55b0cfe878c351661566c27f4c043472b060cae1dd929e8f6838b03d7e170.m3u8> |
 | 871 | [BD]ok stendal | epg.pw | <https://epg.pw/stream/6e48895012d95d8034517bf1a000f7cad66c76c9f1219acfc0d11fca72a3aba7.m3u8> |
 | 872 | [BD]okto tv (1080p) | epg.pw | <https://epg.pw/stream/122d263bb30b5181c383286ff175a355571bb0addda7343f3c3f662d52308a41.m3u8> |
@@ -1377,7 +1377,7 @@
 | 1371 | [HD]wild 'n out | epg.pw | <https://epg.pw/stream/e7e7652d293b746926d18357cf094d94d6ef36789fe21a50676795885cc07d6d.m3u8> |
 | 1372 | [HD]workpoint tv | epg.pw | <https://epg.pw/stream/7743045788634f547e973fb89641b9024095f5bf888924ec3d252284576cb84c.m3u8> |
 | 1373 | [BD]world fishing network | epg.pw | <https://epg.pw/stream/c3911f1e3f5b64e7b59c565e0a39b515c1ffb5f92ac7e39a76b9a6ba077c1958.m3u8> |
-| 1374 | [SD]world poker tour | epg.pw | <https://epg.pw/stream/c1b792fe98f2c9f6538d05bbd623e33732e290386bc85b76aa7f37ae148337b3.m3u8> |
+| 1374 | [HD]world poker tour | epg.pw | <https://epg.pw/stream/c1b792fe98f2c9f6538d05bbd623e33732e290386bc85b76aa7f37ae148337b3.m3u8> |
 | 1375 | [HD]es tv (720p) | epg.pw | <https://epg.pw/stream/863c88d689c26f8458a1e66a3f59399d12c37977e4dfeb65d4285cb6ed7e896a.m3u8> |
 | 1376 | [BD]ytn2 (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/fcfe7c81b8795f17623d3a927c93b96f24d4058fd59ed5413c9da1a314d40ba2.m3u8> |
 | 1377 | [VGA]yol tv | epg.pw | <https://epg.pw/stream/29b456489b258eb589dd1c0045e07384acfd1c9bec80b4fc2fff7af4406b193f.m3u8> |
@@ -1904,4 +1904,4 @@
 | 1898 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1899 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Jun 03 2024 04:15:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 03 2024 06:16:04 GMT+0000 (Coordinated Universal Time)**
