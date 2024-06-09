@@ -9,7 +9,7 @@
 [BD]newtv精品体育[ipv6],https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 [BD]newtv超级体育[ipv6],https://epg.pw/stream/4853a4684d8d017020dfc2b1da17831520bdd89bce2161d612b24c1f92b8720c.m3u8
 [BD]五星体育[ipv6],https://epg.pw/stream/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
-[SD]先锋乒羽,https://epg.pw/stream/86902912344ff42b58bf8398920ed2e0978f31f8ae099fa8e659d0deef884e4f.ctv
+[SD]先锋乒羽,https://epg.pw/stream/2fee76669bfcda8fd05cfb4cff2c0481c0d06d8473505d01a65234aa0e906b8e.ctv
 [BD]哒啵赛事[ipv6],https://epg.pw/stream/5ea46f1cf1488694204cfaf47014123e2f0c10370f04e78f2ad94d82edbb3559.m3u8
 [SD]四海钓鱼,https://epg.pw/stream/035da715c6d55f2764d231c3be66f457fd5ce09f4593e9e8cc7d60f79c1e8292.ctv
 [BD]天津体育,https://epg.pw/stream/e550462ba6e8b39f7caf7c0bdc83da7588e66a734647e08fe81a12e1ade63fcd.m3u8
