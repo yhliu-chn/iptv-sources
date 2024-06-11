@@ -1874,4 +1874,4 @@
 | 1868 | [BD]국악방송 | stream.freetv.fun | <https://stream.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1869 | [BD]연합뉴스tv | stream.freetv.fun | <https://stream.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Jun 11 2024 10:13:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 11 2024 12:21:58 GMT+0000 (Coordinated Universal Time)**
