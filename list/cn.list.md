@@ -133,7 +133,7 @@
 | 127 | [BD]宜兴新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/91bea3373d1f26be291bcbc5877162ec349c1c71f82f22230165354e890c6a17.m3u8> |
 | 128 | [SD]家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/315b1aba17c13b0b01f6c5d016d8c1daf278331f2533c2b87fdf32713d17cc66.ctv> |
 | 129 | [SD]家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/e86912fc5a4eaa1629efa07737e1c47ba9659e47a59f323cf85dcf7fef2f9b1f.ctv> |
-| 130 | [SD]家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/03f67d0e0fa947765e1aec78406a6a085ee9f3b4bb2d4f6c6947dd70a6c40296.ctv> |
+| 130 | [SD]家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/3c0c2b0bc4548e4d82f0f0e87c4256d3d93b72d8d227b075f97001b5cdc58422.ctv> |
 | 131 | [BD]宁夏吴忠公共 | stream1.freetv.fun | <https://stream1.freetv.fun/9831c9bb9138784a97ecf8250101bb35a27c736df2e5d5c0b640e349168ccc17.m3u8> |
 | 132 | [VGA]宁夏少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/defe89f84fb101dff9f5cb0617bb2ce1ecf9d717a9013c416a897a0ee64e18a5.m3u8> |
 | 133 | [VGA]宁夏影视 | stream1.freetv.fun | <https://stream1.freetv.fun/1efb86a608aab31587a906f0593be5a7359ba7c3bcdbb0fb2e3e8daf19e3c9ba.m3u8> |
@@ -439,4 +439,4 @@
 | 433 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv> |
 | 434 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Fri Sep 13 2024 04:15:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 13 2024 06:18:03 GMT+0000 (Coordinated Universal Time)**
