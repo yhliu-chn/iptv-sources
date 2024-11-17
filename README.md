@@ -29,10 +29,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | Sun Nov 17 2024 06:40:10 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+| https | <https://iptv.b2og.com> | per 2h | Sun Nov 17 2024 08:40:10 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
 | https | <https://iptv.helima.net> | per 2.5h | Get Updated Failed: **TypeError: fetch failed** | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Sun Nov 17 2024 08:04:14 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Sun Nov 17 2024 08:03:07 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://m3u.002397.xyz> | per 2h | Sun Nov 17 2024 10:04:23 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.002397.xyz> | per 2h | Sun Nov 17 2024 10:03:29 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
 
@@ -58,8 +58,8 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | epg.pw All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for epg.pw All](/list/all.list) | 2196 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom | [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom](/list/q_bj_iptv_unicom.list) | 138 | ✅ |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](/list/q_bj_iptv_unicom_m.list) | 138 | ✅ |
-| qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 151 | ✅ |
-| qwerttvv/Beijing-IPTV IPTV Mobile Multicast | [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](/list/q_bj_iptv_mobile_m.list) | 136 | ✅ |
+| qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 152 | ✅ |
+| qwerttvv/Beijing-IPTV IPTV Mobile Multicast | [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](/list/q_bj_iptv_mobile_m.list) | 137 | ✅ |
 | yb0121/Jiangxi-IPTV IPTV Unicom | [y_jx_iptv_telecom.m3u](/y_jx_iptv_telecom.m3u) <br> [y_jx_iptv_telecom.txt](/txt/y_jx_iptv_telecom.txt) | [List for yb0121/Jiangxi-IPTV IPTV Unicom](/list/y_jx_iptv_telecom.list) | update failed | ✅ |
 
 ## EPG
@@ -68,11 +68,11 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | --- | --- | ---------- |
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | update failed |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Sun Nov 17 2024 08:17:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 17 2024 10:14:10 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
