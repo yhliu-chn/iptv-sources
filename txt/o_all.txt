@@ -3424,6 +3424,7 @@ Al_Aqsa_Channel_(416p)_[Not_24/7],http://167.172.161.13/hls/feedspare/6udfi7v8a3
 Al_Dafrah_TV_(720p),https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
 Al_Iraqia_(720p),https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 Al_Ittihad_(552p)_[Not_24/7],http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+Al_Jadeed_(1080p),http://185.9.2.18/chid_391/mono.m3u8
 Al_Kahera_Wal_Nas,https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8
 Al_Khalij_(720p)_[Not_24/7],https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 Al_Masriyah,https://fl1002.bozztv.com/ga-almasriya/index.m3u8
@@ -8898,6 +8899,7 @@ Ten_Sports_Pakistan,http://121.91.61.106:8000/play/a04h/index.m3u8
 Tennis_Channel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 Tigo_Sports_(Costa_Rica),https://acceso.radiosportstv.online:3795/stream/play.m3u8
 Tigo_Sports_TV_El_Salvador_(720p),https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+TJK_TV_2_(1080p)_[Not_24/7],https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 TJK_TV_(1080p),https://tjktv-live.tjk.org/tjktv.m3u8
 TR_Sport_(480p),https://livetr.teleromagna.it/mia/live/playlist.m3u8
 Trace_Sport_Stars_(Australia)_(1080p),https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
