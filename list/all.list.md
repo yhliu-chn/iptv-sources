@@ -1986,4 +1986,4 @@
 | 1980 | [HD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/596a80af31a5b492aa0f37072703f44371db9f90c7ec6f551d8f1f660a3a0673.m3u8> |
 | 1981 | [HD]龙华电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/2bc092eff9c5b52593e4fedefd7dadb3692cab8cadb25dba0947c4eae55bb450.ctv> |
 
-Updated at **Thu Jul 24 2025 22:15:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 25 2025 01:18:22 GMT+0000 (Coordinated Universal Time)**
