@@ -448,4 +448,4 @@
 | 442 | CGTN Russian | dash3.antik.sk | <https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8> |
 | 443 | CGTN Arabic | dash3.antik.sk | <https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8> |
 
-Updated at **Tue Dec 23 2025 22:15:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 24 2025 01:15:30 GMT+0000 (Coordinated Universal Time)**
