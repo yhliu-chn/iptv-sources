@@ -31,7 +31,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | ------------- | --- | --------------------- | --- | --- | -------- |
 | https | <https://iptv.b2og.com> | per 2h | Get Updated Failed: **Forbidden** | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
 | https | <https://iptv.helima.net> | per 2.5h | Get Updated Failed: **TypeError: fetch failed** | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Thu May 14 2026 12:03:58 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://m3u.002397.xyz> | per 2h | Thu May 14 2026 16:09:01 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
 | https | <https://iptv.002397.xyz> | per 2h | Get Updated Failed: **<none>** | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
@@ -72,7 +72,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
 
-Updated at **Thu May 14 2026 13:57:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 14 2026 16:09:03 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
